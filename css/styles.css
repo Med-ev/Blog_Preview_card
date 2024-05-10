@@ -60,7 +60,21 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+}
+.coded-by {
+    text-align: center;
+    
+    margin-top: -40px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 700;
+    
+}
+.coded-by a {
+    color: blue;
+}
+.coded-by a:hover {
+    color: hsl(0, 0%, 100%);
 }
 
 
